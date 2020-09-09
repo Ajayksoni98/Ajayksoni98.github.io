@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am currently pursuing my master's from Indian Institute of Technology, Delhi. 
+Graduated from Rajasthan Technical University,Kota.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I like to explore new things, new technologies and spending time on books
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ajayksoni@gmail.com](mailto:ajayksoni198@gmail.com)
