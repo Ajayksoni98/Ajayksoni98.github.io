@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 ---
 
-I am currently pursuing my master's from Indian Institute of Technology, Delhi. 
-
+I am currently pursuing my master's from Indian Institute of Technology, Delhi.
 Graduated from Rajasthan Technical University,Kota.
+
+
 
 ### More Information
 
