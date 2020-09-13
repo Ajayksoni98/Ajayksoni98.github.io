@@ -1,6 +1,10 @@
+
+Hello Everyone,
+here is my first first blog regarding my journey from Rajasthan technical University, Kota to indian institutes of technology, delhi.
+
 ---
 layout: post
-title: You're up and running!
+title: Background:How it all started
 ---
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
