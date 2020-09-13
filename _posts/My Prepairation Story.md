@@ -1,8 +1,16 @@
 ---
 layout: post
-title: Background:How it all started
+title: My GATE Preparation Story
 ---
-Hello Everyone,
-here is my first first blog regarding my journey from Rajasthan technical University, Kota to indian institutes of technology, delhi.
+
+If this is too long to read, here's the summary:
+
+1. I was able to learn with my mistakes.
+2. I used standard textbooks and standard resources for important topics and subject.
+3. I  am in really supportive friend cirle.
+
+### Background
+## GATE 2019
+
 
 
