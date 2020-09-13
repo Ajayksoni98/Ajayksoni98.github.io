@@ -9,8 +9,8 @@ If this is too long to read, here's the summary:
 2. I used standard textbooks and standard resources for important topics and subject.
 3. I  am in really supportive friend cirle.
 
-### Background
-## GATE 2019
+## Background
+### GATE 2019
 
 
 
